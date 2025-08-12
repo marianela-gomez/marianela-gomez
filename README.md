@@ -24,7 +24,7 @@ I’m a **Data Analyst** with a **PhD in Advanced Chemistry** and a strong passi
 
 ### PhD Thesis ➡️ DFT calculations in the study of mixed oxides: Structure, properties, and applications in the hydrogen economy  
 
-**What I Did:**
+**What I Did:**  
 I studied advanced oxide materials using computational chemistry to explore their applications in green hydrogen production and fuel cells. I combined simulations with experimental work to gain insights into material behavior.
 
 **Highlights:**
@@ -38,8 +38,6 @@ I studied advanced oxide materials using computational chemistry to explore thei
 
 **What I did:**  
 Developed an interactive Tableau dashboard visualizing the historical relationship between human evolution and energy consumption, from fire to renewable sources. The project combines historical data with energy trends to tell a compelling story of how energy has driven human progress.
-
-**Tools:** Tableau, Data Visualization, Storytelling
 
 **Highlights:**  
 - **Data Analysis:** Processed and analyzed historical energy consumption data.  
