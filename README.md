@@ -22,7 +22,30 @@ I’m a **Data Analyst** with a **PhD in Advanced Chemistry** and a strong passi
 
 ## 👩🏻‍🚀 Projects  
 
+### PhD Thesis ➡️ DFT calculations in the study of mixed oxides: Structure, properties, and applications in the hydrogen economy  
 
+**What I Did:**
+I studied advanced oxide materials using computational chemistry to explore their applications in green hydrogen production and fuel cells. I combined simulations with experimental work to gain insights into material behavior.
+
+**Highlights:**
+- **Data Analysis:** Conducted complex DFT calculations to reveal relationships between structure and properties.
+- **Problem Solving:** Developed models to explain photocatalytic efficiency and ion mobility in fuel cells.
+- **Automation:** Created Python scripts to expedite data processing and analysis.
+- **Communication:** Summarized findings using clear visualizations for publications and presentations.
+- **Learning Agility:** Mastered new computational techniques and software throughout the project.
+
+### Renewable Energy Project ➡️ Energy & Evolution: A story through data
+
+**What I did:**  
+Developed an interactive Tableau dashboard visualizing the historical relationship between human evolution and energy consumption, from fire to renewable sources. The project combines historical data with energy trends to tell a compelling story of how energy has driven human progress.
+
+**Tools:** Tableau, Data Visualization, Storytelling
+
+**Highlights:**  
+- **Data Analysis:** Processed and analyzed historical energy consumption data.  
+- **Storytelling:** Crafted a narrative that connects human milestones with energy usage.  
+- **Data Visualization:** Designed interactive dashboards to engage users and convey insights
+- **Link:** [GitHub Repo](https://github.com/marianela-gomez/renewable-energy-project)
 
 ## 🧠 Skills  
 
