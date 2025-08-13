@@ -1,5 +1,6 @@
-<h1 align="center">🔸Hello there! I'm Marianela🔸</h1>
-<h2 align="center">A Data Analyst from Spain</h3>
+<h1 align="center">🔸Hello there!🔸</h1>
+
+<img src="./img/github-header-banner.png">
 
 <p align="center"><a href="https://www.linkedin.com/in/marianelagomeztoledo"><img src="https://img.shields.io/badge/LinkedIn-118ab2?style=flat&logo=linkedin" alt="linkedin_profile"/></a> <a href="mailto:marianela.gomez.linkedin@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=Gmail&logoColor=white" alt="linkedin_profile"/></a></p>
 
@@ -45,38 +46,33 @@ Developed an interactive Tableau dashboard visualizing the historical relationsh
 - **Data Visualization:** Designed interactive dashboards to engage users and convey insights
 - **Link:** [GitHub Repo](https://github.com/marianela-gomez/renewable-energy-project)
 
-## 🧠 Skills  
+## 🧠 Skills 
 
-### Data Analysis  
-- Performed 200+ calculations extracting chemical insights, leading to 4 publications and 10+ conference contributions.  
-- Developed Python scripts to automate data collection and analysis, significantly speeding up workflows.  
-- Designed visual figures for scientific posters, summarizing complex info effectively.  
-
-### Communication  
-- Presented research results at 10+ national and international conferences.  
-- Delivered 6 talks at scientific conferences and student contests.  
-- Authored 5 scientific publications.  
-
-### Project Management  
-- Served on 2 student conference organizing committees, coordinating participants and negotiating with peers.  
-- Produced and edited a 5-minute video for an Innovative Teaching project.  
-- Managed multiple projects simultaneously, sharpening time management skills.  
-
-### Problem Solving  
-- Resolved daily scientific and bureaucratic challenges during PhD research.  
-- Provided last-minute solutions for student conference organization to meet deadlines.  
-- Assisted peers with software and technical issues across disciplines.  
-
-### Learning Agility  
-- Applied 4 computational chemistry methodologies without prior experience.  
-- Completed thesis experiments within 3 years.  
-- Presented research within 6 months of starting PhD.  
-- Mastered 5+ scientific software programs independently.  
+- Data Analysis  
+- Communication  
+- Project Management  
+- Problem Solving  
+- Learning Agility  
 
 
 ## 📚 Scientific Publications   
 
-[<img src="https://img.shields.io/badge/ORCID-%23A6CE39?style=flat&logo=orcid&logoColor=white">](https://orcid.org/0000-0001-5594-4146)
+These are the publications I worked on during my PhD. 
+
+They might sound like they belong in a rocket scientist’s bedtime reading list, but trust me, behind the fancy titles, it’s all about understanding materials to make greener energy a reality 🍃
+
+- [**_Ab initio_ investigation of oxygen ion diffusion in the layered perovskite system $YSr_2Cu_2FeO_{7+\delta} (0 < \delta < 1)$**](https://www.mdpi.com/2076-3417/14/15/6586)
+
+- [**The SCAN+_U_ method in the investigation of complex transition metal oxides: a case study on $YSr_2Cu_2FeO_{7+\delta} (\delta = 0, 1)$**](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp00874j)
+
+- [**Upgrading photocatalytic hydrogen evolution in Ba–Sr–Ta–O perovskite-type layered structures**](https://www.sciencedirect.com/science/article/pii/S0360319924007882?via%3Dihub) 
+
+- [**Metal-to-Insulating Transition in the Perovskite System $YSr_2Cu_2FeO_{8−\delta} (0 < \delta < 1)$ Modeled by DFT Methods**](https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c03475)
+
+
+
+
+
 
 
 
